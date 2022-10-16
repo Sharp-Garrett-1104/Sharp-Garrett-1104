@@ -1,6 +1,8 @@
-
+// Garrett Sharp
+// 10/16/22
+// Midterm Practice
 #include "hamburger.h"
-
+//hamburagar
 
 int main(){
 
