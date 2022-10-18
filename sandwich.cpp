@@ -31,8 +31,8 @@ Meat Sandwich::getMeatType(){
     return meatType;
 }
 
-void Sandwich::setMeatType(Meat newMeatType){
-    meatType = newMeatType;
+void Sandwich::setMeatType(Meat newMeat){
+    meatType = newMeat;
 }
 
 bool Sandwich::getLettuceWrap(){

@@ -5,7 +5,7 @@
 #include <string>
 using namespace std;
 
-class Sandwich: public Meat{
+class Sandwich{
     protected:
         // Private Variables/Data Types
         string sandwichType;

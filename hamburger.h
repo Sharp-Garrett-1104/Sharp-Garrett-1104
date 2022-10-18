@@ -5,7 +5,7 @@
 #include <string>
 using namespace std;
 
-class Hamburger: Sandwich{
+class Hamburger: public Sandwich{
     // Variables
     bool ketchup;
     bool mayo;
