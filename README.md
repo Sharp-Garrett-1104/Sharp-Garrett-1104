@@ -9,7 +9,7 @@ The goal of this project is to:
 3.  Provide practice with new class **Inheritance** skills.
 
 ### Important Notes:
-1.    **Program Design**: It is up to you to decide which class inherits from another class, and which class is aggregated into another class. This will determine how things are included and if one class inherits from another.
+1.    **Program b.comDesign**: It is up to you to decide which class inherits from another class, and which class is aggregated into another class. This will determine how things are included and if one class inherits from another.
 
 2.    **Formatting**: Make sure that you follow the precise recommendations for the output content and formatting. For example, do not change the text from “Correct usage: ” to “correct”. 
 

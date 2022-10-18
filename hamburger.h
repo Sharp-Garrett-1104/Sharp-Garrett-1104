@@ -23,6 +23,7 @@ class Hamburger: Sandwich{
         // Setters
         void setKetchup(bool);
         void setMayo(bool);
+        
         void printHamburger();
 
 };

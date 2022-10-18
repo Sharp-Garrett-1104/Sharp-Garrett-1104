@@ -37,3 +37,7 @@ void Meat::setType(string newType){
 void Meat::setNumParts(int newNumParts){
     numParts = newNumParts;
 }
+
+void Meat::printMeat(){
+    cout << numParts << " " << name << " " << type << " patties" << endl;
+}

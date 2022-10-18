@@ -2,7 +2,7 @@
 
 Sandwich::Sandwich(){
     sandwichType = "QuinnContaldiWich";
-    // AAAAAAA
+    //meatType = "Beef";
     lettuceWrap = 0;
 }
 Sandwich::Sandwich(string newSandwichType, Meat newMeat, bool newLettuceWrap){
@@ -25,6 +25,14 @@ string Sandwich::getSandwichType(){
 
 void Sandwich::setSandwichType(string newSandwichType){
     sandwichType = newSandwichType;
+}
+
+Meat Sandwich::getMeatType(){
+    return meatType;
+}
+
+void Sandwich::setMeatType(Meat newMeatType){
+    meatType = newMeatType;
 }
 
 bool Sandwich::getLettuceWrap(){

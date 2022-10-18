@@ -25,6 +25,8 @@ class Meat{
         void setName(string);
         void setType(string);
         void setNumParts(int);
+        
+        void printMeat();
 
 };
 
